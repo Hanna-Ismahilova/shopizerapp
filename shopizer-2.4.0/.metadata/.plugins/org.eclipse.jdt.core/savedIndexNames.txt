@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Hanna_Ismahilova\eclipse-workspace\shopizer-2.4.0\.metadata\.plugins\org.eclipse.jdt.core
